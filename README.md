@@ -1,0 +1,1 @@
+Materiale di preprazione all'esame di Algoritmi di Ottimizzazione Combinatoria e Su Rete (RICERCA OPERATIVA) + progetto di esame: FSTSP_progetto di esame basato sull'articolo di Murray & Chu, modellazione del problema con soluzione ottima ed euristiche
